@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Amit Sharma",
+    "age": 32,
+    "gender": "Male",
+    "email": "amit.sharma@example.com",
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "Sector 15",
+      "city": "Noida",
+      "state": "UP",
+      "zipcode": "201301"
+    },
+    "medicalHistory": ["Diabetes", "High BP"],
+    "lastVisit": "2025-08-12"
+  },
+  {
+    "id": 2,
+    "name": "Priya Verma",
+    "age": 27,
+    "gender": "Female",
+    "email": "priya.verma@example.com",
+    "phone": "+91-9811122233",
+    "address": {
+      "street": "MG Road",
+      "city": "Lucknow",
+      "state": "UP",
+      "zipcode": "226001"
+    },
+    "medicalHistory": ["Asthma"],
+    "lastVisit": "2025-09-05"
+  },
+  {
+    "id": 3,
+    "name": "Rahul Singh",
+    "age": 40,
+    "gender": "Male",
+    "email": "rahul.singh@example.com",
+    "phone": "+91-9911445566",
+    "address": {
+      "street": "Civil Lines",
+      "city": "Delhi",
+      "state": "DL",
+      "zipcode": "110054"
+    },
+    "medicalHistory": ["Thyroid"],
+    "lastVisit": "2025-07-28"
+  },
+  {
+    "id": 4,
+    "name": "Neha Gupta",
+    "age": 35,
+    "gender": "Female",
+    "email": "neha.gupta@example.com",
+    "phone": "+91-8899776655",
+    "address": {
+      "street": "Marine Drive",
+      "city": "Mumbai",
+      "state": "MH",
+      "zipcode": "400020"
+    },
+    "medicalHistory": ["Migraine"],
+    "lastVisit": "2025-09-15"
+  },
+  {
+    "id": 5,
+    "name": "Karan Mehta",
+    "age": 29,
+    "gender": "Male",
+    "email": "karan.mehta@example.com",
+    "phone": "+91-7766554433",
+    "address": {
+      "street": "Shivaji Nagar",
+      "city": "Pune",
+      "state": "MH",
+      "zipcode": "411005"
+    },
+    "medicalHistory": ["None"],
+    "lastVisit": "2025-08-25"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Yadav",
+    "age": 24,
+    "gender": "Female",
+    "email": "anjali.yadav@example.com",
+    "phone": "+91-9123456789",
+    "address": {
+      "street": "Sector 62",
+      "city": "Gurugram",
+      "state": "HR",
+      "zipcode": "122001"
+    },
+    "medicalHistory": ["Allergy"],
+    "lastVisit": "2025-09-10"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Malhotra",
+    "age": 45,
+    "gender": "Male",
+    "email": "rohit.malhotra@example.com",
+    "phone": "+91-9090909090",
+    "address": {
+      "street": "Park Street",
+      "city": "Kolkata",
+      "state": "WB",
+      "zipcode": "700016"
+    },
+    "medicalHistory": ["Arthritis"],
+    "lastVisit": "2025-06-30"
+  },
+  {
+    "id": 8,
+    "name": "Sneha Kapoor",
+    "age": 31,
+    "gender": "Female",
+    "email": "sneha.kapoor@example.com",
+    "phone": "+91-8001234567",
+    "address": {
+      "street": "Banjara Hills",
+      "city": "Hyderabad",
+      "state": "TS",
+      "zipcode": "500034"
+    },
+    "medicalHistory": ["Hypertension"],
+    "lastVisit": "2025-08-05"
+  },
+  {
+    "id": 9,
+    "name": "Manoj Tiwari",
+    "age": 50,
+    "gender": "Male",
+    "email": "manoj.tiwari@example.com",
+    "phone": "+91-7070707070",
+    "address": {
+      "street": "Rajendranagar",
+      "city": "Patna",
+      "state": "BR",
+      "zipcode": "800016"
+    },
+    "medicalHistory": ["Diabetes", "Cholesterol"],
+    "lastVisit": "2025-09-01"
+  },
+  {
+    "id": 10,
+    "name": "Pooja Nair",
+    "age": 38,
+    "gender": "Female",
+    "email": "pooja.nair@example.com",
+    "phone": "+91-7333445566",
+    "address": {
+      "street": "Vyttila",
+      "city": "Kochi",
+      "state": "KL",
+      "zipcode": "682019"
+    },
+    "medicalHistory": ["None"],
+    "lastVisit": "2025-07-18"
+  }
+]
